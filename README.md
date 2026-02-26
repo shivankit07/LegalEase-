@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ⚖️ LegalEase — Your Free AI Lawyer
 
 LegalEase is a free AI-powered tool that reads any legal contract and tells ordinary people exactly what they're agreeing to — in plain simple language.
